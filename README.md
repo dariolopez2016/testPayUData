@@ -40,7 +40,7 @@ API RESTful para gestionar datos generales del sistema.
 
 - **Endpoint principal**: `GET /api/data`
 - **Swagger UI**: `http://localhost:8081/swagger-ui.html`
-- **Repositorio**: `https://github.com/tudariolopez2016/data-service.git`
+- **Repositorio**: `https://github.com/dariolopez2016/data-service.git`
 
 ### 2. Network Service (`network-service`)
 API RESTful para obtener información específica de la red.
